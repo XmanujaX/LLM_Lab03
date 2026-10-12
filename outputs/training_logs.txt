@@ -1,0 +1,14 @@
+step 0: train loss 4.5817, val loss 4.5832
+step 500: train loss 2.2371, val loss 2.2595
+step 1000: train loss 1.8822, val loss 1.8999
+step 1500: train loss 1.6471, val loss 1.6605
+step 2000: train loss 1.5249, val loss 1.5457
+step 2500: train loss 1.4373, val loss 1.4604
+step 3000: train loss 1.3728, val loss 1.3944
+step 3500: train loss 1.3175, val loss 1.3428
+step 4000: train loss 1.2927, val loss 1.3111
+step 4500: train loss 1.2608, val loss 1.2790
+step 4999: train loss 1.2281, val loss 1.2534
+
+Validation Loss: 1.2502
+Perplexity: 3.49
